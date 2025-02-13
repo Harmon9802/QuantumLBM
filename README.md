@@ -1,2 +1,8 @@
 # QuantumLBM
-Developing quantum algorithms for LBM simulation
+This repository is about developing Carleman Linearization algorithms for the Quantum Lattice-Boltzmann Method
+
+## classical_kolmogorov
+Classical simulation results about a kolmogorov-like flow. The second order Carleman linearization LBM results has been validated by the exact solution of LBM for one dimension flow. 
+
+## quantum_kolmogorov
+Still developing...
