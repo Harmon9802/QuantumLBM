@@ -6,5 +6,8 @@ Unlike common collision operators of LBM, the calculation of the collision distr
 ## classical_kolmogorov
 Classical simulation results about a kolmogorov-like flow. The second order Carleman linearization LBM results has been validated by the exact solution of LBM for one dimension flow. 
 
+## classical_taylor
+Classical simulation results about Taylor-Green Vortex. The second order Carleman linearization LBM results has been validated by the exact solution of LBM.
+
 ## quantum_kolmogorov
 Still developing (Qiskit library)...
